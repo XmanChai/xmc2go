@@ -1,4 +1,4 @@
-package demo
+package xmc2go
 
 import "fmt"
 
